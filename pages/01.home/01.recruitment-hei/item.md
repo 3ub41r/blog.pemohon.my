@@ -32,7 +32,7 @@ Just like [online shopping carts](https://www.shopify.com/blog/8484093-why-onlin
 
 In this age of the internet, we are bombarded with so much information that it is getting harder now for us to keep ourselves engaged and focused.
 
-Oftentimes, applicants are not kept informed of the status of their application as it moves through the recruitment process leaving applicants bewildered. This will increase the chance of applicants abandoning their application and looking for other alternatives (your *competitors*). Keeping applicants engaged will also build relationships. 
+Oftentimes, applicants are not kept informed of the status of their application as it moves through the recruitment process, leaving applicants bewildered. This will increase the chance of applicants abandoning their application and looking for other alternatives (your *competitors*). Keeping applicants engaged will also build relationships. 
 
 ### Inefficient use of resources
 
