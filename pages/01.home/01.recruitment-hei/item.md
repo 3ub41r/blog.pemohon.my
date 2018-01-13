@@ -36,7 +36,7 @@ Oftentimes, applicants are not kept informed of the status of their application 
 
 ### Inefficient use of resources
 
-Costly man hours are spent on manual tasks, sifting through paperwork and contacting individual applicants. Coordinating such ativities across different departments is also a challenge.
+Costly man hours are spent on manual tasks, sifting through paperwork and contacting individual applicants. Coordinating such activities across different departments is also a challenge.
 
 An applicant may be contacted by several different people from the same organization on a single matter. Not only is this inefficient but it may also result in the organization being perceived as uncoordinated or even dysfunctional.
 
