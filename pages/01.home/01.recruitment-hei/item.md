@@ -46,4 +46,4 @@ The race for providing better quality education and services is getting more com
 
 Let's all make this world a better place to live in.
 
-I you are facing these problems, feel free to drop us a line at [https://pemohon.my](https://pemohon.my). We are more than happy to help :)
+If you are facing these problems, feel free to drop us a line at [https://pemohon.my](https://pemohon.my). We are more than happy to help :)
