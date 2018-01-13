@@ -17,7 +17,7 @@ Here are a few of the issues higher education institutions face in the recruitme
 
 ![](survey-opinion-research-voting-fill-159353.jpeg)
 
-Some institutions still use physical application forms, usually in the form of PDF files (or some other document format). Applicants are required to download the form from their website, print it out, fill it up and physically submit it via mail along with all the supporting documents. This process is **error prone** and **time consuming**.
+Some institutions still use physical application forms, usually in the form of PDF files (or some other document formats). Applicants are required to download the form from their website, print it out, fill it up and physically submit it via mail along with all the supporting documents. This process is **error prone** and **time consuming**.
 
 ### Application abandonment
 
