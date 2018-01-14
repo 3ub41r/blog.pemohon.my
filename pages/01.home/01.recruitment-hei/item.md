@@ -44,4 +44,6 @@ An applicant may be contacted by several different people from the same organiza
 
 The race for providing better quality education and services is getting more competitive by the day. Higher education institutions need to *up their game* in order to compete in today's ever changing world. Leveraging technology to optimize and improve the recruitment process could be a big stepping stone towards providing high quality education and better learning experience for students.
 
-If you are facing these problems, feel free to drop us a line at [https://pemohon.my](https://pemohon.my). We are more than happy to help :)
+If you are facing these problems, feel free to drop us a line at [https://pemohon.my](https://pemohon.my). 
+
+We're more than happy to help :)
