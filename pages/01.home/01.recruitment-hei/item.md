@@ -1,6 +1,6 @@
 ---
 title: 'Leveraging Technology for Recruitment in Higher Education Institutions'
-media_order: 'survey-opinion-research-voting-fill-159353.jpeg,empty-cart.jpeg,bored-min.jpg'
+media_order: 'survey-opinion-research-voting-fill-159353.jpeg,bored-min.jpg,empty-cart.jpeg'
 ---
 
 In this very challenging competitive age, knowledge has become a commodity. Higher education institutions play a crucial role in servicing this need. The market has become very competitive with the influx of public and private institutions all competing to provide better quality education and services to the ever demanding market.
@@ -44,6 +44,8 @@ An applicant may be contacted by several different people from the same organiza
 
 The race for providing better quality education and services is getting more competitive by the day. Higher education institutions need to *up their game* in order to compete in today's ever changing world. Leveraging technology to optimize and improve the recruitment process could be a big stepping stone towards providing high quality education and better learning experience for students.
 
-If you are facing these problems, feel free to drop us a line at [https://pemohon.my](https://pemohon.my). 
+If your organization is facing similar problems, be sure to leave a comment below.
 
-We're more than happy to help :)
+You can also learn more at [https://pemohon.my](https://pemohon.my). 
+
+We're more than happy to help
