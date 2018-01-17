@@ -47,5 +47,3 @@ The race for providing better quality education and services is getting more com
 If this post resonates with you and your organization is facing problems leveraging technology in your recruitment process, be sure to leave us a comment below. We're eager to hear from you :)
 
 You can also learn more at [https://pemohon.my](https://pemohon.my). 
-
-We're more than happy t
