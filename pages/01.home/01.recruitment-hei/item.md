@@ -44,8 +44,8 @@ An applicant may be contacted by several different people from the same organiza
 
 The race for providing better quality education and services is getting more competitive by the day. Higher education institutions need to *up their game* in order to compete in today's ever changing world. Leveraging technology to optimize and improve the recruitment process could be a big stepping stone towards providing high quality education and better learning experience for students.
 
-If your organization is facing similar problems, be sure to leave a comment below.
+If this post resonates with you and your organization is facing problems leveraging technology in your recruitment process, be sure to leave us a comment below. We're eager to hear from you :)
 
 You can also learn more at [https://pemohon.my](https://pemohon.my). 
 
-We're more than happy to help
+We're more than happy t
